@@ -1,0 +1,7 @@
+{
+	"name": "My Development Container",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"forwardPorts": [8081]
+}
